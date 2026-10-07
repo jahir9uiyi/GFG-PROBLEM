@@ -1,0 +1,6 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/next-happy-number4538/1">Next Happy Number</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p class="PDq2pG_selectionAnchorContainer" data-start="150" data-end="236"><span style="font-size: 14pt;">Given a non-negative integer <strong data-start="179" data-end="184">n</strong>, find the smallest Happy Number greater than n.&nbsp;</span><span style="font-size: 14pt;">A number is called a Happy Number if repeatedly replacing the number with the sum of the squares of its digits eventually results in 1.</span></p><p data-start="238" data-end="383"><span style="font-size: 18px;"><strong>Examples:</strong></span></p><pre><span style="font-size: 18px;"><strong>Input: </strong>n = 8<strong>
+Output: </strong>10<strong>
+Explanation: </strong>10 is the smallest Happy Number greater than 8, since 1² + 0² = 1.</span>
+</pre><pre><span style="font-size: 18px;"><strong>Input: </strong>n = 10<strong>
+Output: </strong>13<strong>
+Explanation: </strong></span><span style="font-size: 18px;">13 is the smallest Happy Number greater than 10, since 1² + 3² = 10, and then 1² + 0² = 1.</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Recursion</code>&nbsp;
